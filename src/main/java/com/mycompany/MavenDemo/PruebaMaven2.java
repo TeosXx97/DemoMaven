@@ -18,6 +18,7 @@ public class PruebaMaven2 {
         // TODO code application logic here
         App app = new App();
         app.imprimir();
+        System.out.println("Hola");
     }
     
 }
